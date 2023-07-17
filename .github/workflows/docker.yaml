@@ -27,3 +27,4 @@ jobs:
         with:
           push: true
           tags: ghcr.io/suro4ek/retype:latest
+
