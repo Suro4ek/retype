@@ -5,7 +5,9 @@ branding:
   title: HyNeo
   label: Wiki
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Сайт
+  link: https://hyneo.ru
+- text: Форум
+  link: https://forum.hyneo.ru
 footer:
   copyright: "&copy; Copyright {{ year }}. Все права защищены."
